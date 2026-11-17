@@ -4,7 +4,7 @@
 
 <p align="center">
   Pantalla, cámara y voz. Transcribe en tu computador y tu propia IA escribe notas, guion para YouTube, títulos, capítulos y subtítulos.<br>
-  Gratis, de código abierto y privado.
+  Para Mac, Windows y Linux. Gratis, de código abierto y privado.
 </p>
 
 <p align="center">
@@ -16,4 +16,4 @@
 
 ---
 
-<p align="center"><sub><b>English:</b> free, open-source screen recorder with your camera. Local transcription, your own AI writes notes, a YouTube script, chapters and subtitles.</sub></p>
+<p align="center"><sub><b>English:</b> free, open-source screen recorder with your camera. Local transcription, your own AI writes notes, a YouTube script, chapters and subtitles. For Mac, Windows and Linux.</sub></p>
